@@ -1,0 +1,14 @@
+.h1 {
+    text-align: center;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: 46px;
+    margin-top: 250px;
+  }
+  #excuse {
+    font-size: 36px;
+    margin-top: 10px;
+  }
+  
